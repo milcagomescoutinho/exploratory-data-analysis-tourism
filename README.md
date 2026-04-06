@@ -27,7 +27,7 @@ The dataset contains information about famous tourist destinations, including:
 - Location and category of attractions
 
 Data source:  
-The dataset was obtained from a public repository on GitHub and used for educational purposes.
+The dataset was obtained from a public dataset on Kaggle and used for educational purposes.
 
 ---
 
