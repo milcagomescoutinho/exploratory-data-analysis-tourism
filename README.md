@@ -1,5 +1,4 @@
 # exploratory-data-analysis-tourism
-# Exploratory Data Analysis - Tourism
 
 This project presents an Exploratory Data Analysis (EDA) on a dataset of famous tourist destinations around the world.
 
